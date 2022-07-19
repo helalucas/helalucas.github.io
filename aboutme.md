@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Static bio
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The following is a static bio about me. If you want to know what I'm doing now, check out my [now page](linkcomingsoon.com).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hela Lucas works as an Incident Response Consultant at KPMG in London. She previously worked at Facebook (in Integrity Science), and interned at Morgan Stanley (Threat Intel and Cyber Analytics), Facebook (CERT) and Coinbase (CERT).
 
-What else do you need?
+She holds a First Class Bachelor of Engineering from Edinburgh Napier University in Cybersecurity and Digital Forensics, as well as GSEC and GCFA certifications. 
 
-### My story
+Outside of her degree, Hela focuses on attending and speaking at industry events and mentoring students on job applications/interview preparation.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Apart from cybersecurity Hela also loves making food, TEDx (she is a two time TEDx conference organiser) and card magic.
+
