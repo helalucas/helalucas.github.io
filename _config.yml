@@ -16,9 +16,10 @@ author: Hela Lucas
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Cyber Interview Questionbank: "https://helalucas.github.io/2022-07-18-CYBERSECURITY-INTERVIEW-QUESTIONS/"
+    - IR Interview Questionbank: "https://helalucas.github.io/2022-07-18-INCIDENT-RESPONSE-QUESTION-BANK/"
+  Fun links:
+    - Nothing here yet
 
 # --- Logo --- #
 
@@ -39,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  # email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: helalucas
   twitter: hela_luc
@@ -81,7 +82,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "helalucas.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
